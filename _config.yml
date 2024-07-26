@@ -1,11 +1,11 @@
 # title: Ashwini Bhave
-# # logo: /assests/img/headshot_circle.png
+# logo: /assests/img/images.jpg
 # description: Hi This is Ashwini!
 # show_downloads: true
 # theme: jekyll-theme-slate
 
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+# repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
@@ -14,6 +14,7 @@ title: Consultant
 email: ashwinibhave0497@gmail.com
 phone: +917219320689
 website: https://ashwinibhave.github.io/
+logo: /assests/img/images.jpg
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -50,7 +51,7 @@ linkedin_username: ashwini-bhave
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: assets/IMG_20181008_012515_100.jpg
+about_profile_image: assests/img/images.jpg
 about_content: | # this will include new lines to allow paragraphs
   Building REST APIs using the Spring framework for Health care to enable higher standards of monitoring and communication. Working with Event-based microservice architecture to deliver high performance and near real-time data. 
 
