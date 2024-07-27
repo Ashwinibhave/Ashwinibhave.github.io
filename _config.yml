@@ -14,7 +14,7 @@ title: Consultant
 email: ashwinibhave0497@gmail.com
 phone: +917219320689
 website: https://ashwinibhave.github.io/
-logo: /assests/img/images.jpg
+logo: /assets/imgs/images.jpg
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -51,7 +51,7 @@ linkedin_username: ashwini-bhave
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: assests/img/images.jpg
+about_profile_image: assets/imgs/images.jpg
 about_content: | # this will include new lines to allow paragraphs
   Building REST APIs using the Spring framework for Health care to enable higher standards of monitoring and communication. Working with Event-based microservice architecture to deliver high performance and near real-time data. 
 
@@ -78,22 +78,22 @@ footer_show_references: true
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
 # remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
-sass:
-  sass_dir: _sass
-  style: compressed
+# sass:
+#   sass_dir: _sass
+#   style: compressed
 
-plugins:
- - jekyll-seo-tag
+# plugins:
+#  - jekyll-seo-tag
 
-exclude : [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
-  ]
+# exclude : [
+#   "Gemfile",
+#   "Gemfile.lock",
+#   "node_modules",
+#   "vendor/bundle/",
+#   "vendor/cache/",
+#   "vendor/gems/",
+#   "vendor/ruby/",
+#   "lib/",
+#   "scripts/",
+#   "docker-compose.yml",
+#   ]
