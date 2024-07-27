@@ -1,8 +1,8 @@
-title: Ashwini Bhave
-logo: /assests/img/images.jpg
-description: Hi This is Ashwini!
-show_downloads: true
-theme: jekyll-theme-slate
+# title: Ashwini Bhave
+# logo: /assests/img/images.jpg
+# description: Hi This is Ashwini!
+# show_downloads: true
+# theme: jekyll-theme-slate
 
 # Site
 # repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
@@ -15,6 +15,7 @@ email: ashwinibhave0497@gmail.com
 phone: +917219320689
 website: https://ashwinibhave.github.io/
 logo: /assets/imgs/images.jpg
+theme: jekyll-theme-minimal
 
 # Dark Mode (true/false/never)
 darkmode: false
