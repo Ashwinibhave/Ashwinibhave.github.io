@@ -18,7 +18,7 @@ logo: /assets/imgs/images.jpg
 theme: jekyll-theme-minimal
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 #twitter_username: jekyllrb
